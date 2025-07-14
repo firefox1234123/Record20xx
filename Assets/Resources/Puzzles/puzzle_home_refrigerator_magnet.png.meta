@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: 803f91906c4c642c1b46cdc81b986a50
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetMinus_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 416
+        width: 16
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16b3033f45547adaa81e0c76b3f120
+      internalID: 410527081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet2_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2323e8e7437443bb64cfcce56f0843
+      internalID: -353445135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet3_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 416
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147883986b4a4494baf0260ed6ab7aeb
+      internalID: -363318423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet4_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac89d2f35a7940a18735cf54f693b8e
+      internalID: 1698713848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet5_0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 416
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9d49497468341acbe51bd4d5be9032
+      internalID: 1052779908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetPlus_0
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f70abadcbe9d41f390801a6b4c241a6
+      internalID: 595507961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 464
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9da76303fdb49a5889c2f42e5495f1
+      internalID: -277488922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetEqual_0
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 440
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83e68eaccaa4f24b4f693ed3ee75ca
+      internalID: 106508036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetMinus_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96965362e59d340549dbeea7f480019a
+      internalID: 865333648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet2_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d6bcd6bc99473dac155c9adf3dd99
+      internalID: 1881239331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet3_90
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 296
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdc703edf9be4e48a9adafcd4b636b9
+      internalID: 704345264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet4_90
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 292
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88658730c1e740eabc4e7dac820c95b
+      internalID: 1213771695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet5_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 292
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec220c745bb4a3ca2655644118e572
+      internalID: 1247549476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetPlus_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c1c4d148e54037870d517f03190e4
+      internalID: 729888141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 292
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ea75965f854250a30b18a8c11fb8c
+      internalID: -2082339718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetEqual_90
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 292
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27402b7ff3dc04e1389212fb02950c00
+      internalID: -322351894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetMinus_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 16
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a288ab12c41384fcda29c33fbefd51f1
+      internalID: 1148048532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet2_180
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d98c2fd2f154bcabbd8c4d176b9e5a
+      internalID: 628629246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet3_180
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 132
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926788b32282c4082be0c6b0aaa32d43
+      internalID: 927846159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet4_180
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac49f38703145458b34577bae906d1
+      internalID: -582412873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet5_180
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 128
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e6ef54795243c9b9f9ed3ca498969
+      internalID: -1374895276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetPlus_180
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c1e34af6334fdbad474d76d90e07f
+      internalID: 861577117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885b204fd10b4064b3de193b33dfbaa
+      internalID: 693937152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetEqual_180
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d22725f15c4099a37b3fc0b42896e
+      internalID: -84142550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetMinus_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4cf43e7244441d9b5b8cfc7bd6d0d5
+      internalID: 1456385526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet2_270
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 4
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dbf9d5d20594fce807891bd482fd3f
+      internalID: -871606217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet3_270
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a38fb14881b548fbbe936437ccc5602
+      internalID: -1746276422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet4_270
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 8
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01005c6ea36d343f784a94f6f0eacd6c
+      internalID: -2063745362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet5_270
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292b0167f5af4882b2167fb9526615d
+      internalID: 1043321053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetPlus_270
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce33e7f65364e22a5ea4cedd899017
+      internalID: 644099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnet_30
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55070ce15bb7d431987074aa20c80f27
+      internalID: 761981819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzzle_home_refrigerator_magnetEqual_270
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d0fd6ebfc864120bf572fbbcc9ebb3
+      internalID: -1901204392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      puzzle_home_refrigerator_magnet2_0: -353445135
+      puzzle_home_refrigerator_magnet2_180: 628629246
+      puzzle_home_refrigerator_magnet2_270: -871606217
+      puzzle_home_refrigerator_magnet2_90: 1881239331
+      puzzle_home_refrigerator_magnet3_0: -363318423
+      puzzle_home_refrigerator_magnet3_180: 927846159
+      puzzle_home_refrigerator_magnet3_270: -1746276422
+      puzzle_home_refrigerator_magnet3_90: 704345264
+      puzzle_home_refrigerator_magnet4_0: 1698713848
+      puzzle_home_refrigerator_magnet4_180: -582412873
+      puzzle_home_refrigerator_magnet4_270: -2063745362
+      puzzle_home_refrigerator_magnet4_90: 1213771695
+      puzzle_home_refrigerator_magnet5_0: 1052779908
+      puzzle_home_refrigerator_magnet5_180: -1374895276
+      puzzle_home_refrigerator_magnet5_270: 1043321053
+      puzzle_home_refrigerator_magnet5_90: 1247549476
+      puzzle_home_refrigerator_magnetEqual_0: 106508036
+      puzzle_home_refrigerator_magnetEqual_180: -84142550
+      puzzle_home_refrigerator_magnetEqual_270: -1901204392
+      puzzle_home_refrigerator_magnetEqual_90: -322351894
+      puzzle_home_refrigerator_magnetMinus_0: 410527081
+      puzzle_home_refrigerator_magnetMinus_180: 1148048532
+      puzzle_home_refrigerator_magnetMinus_270: 1456385526
+      puzzle_home_refrigerator_magnetMinus_90: 865333648
+      puzzle_home_refrigerator_magnetPlus_0: 595507961
+      puzzle_home_refrigerator_magnetPlus_180: 861577117
+      puzzle_home_refrigerator_magnetPlus_270: 644099
+      puzzle_home_refrigerator_magnetPlus_90: 729888141
+      puzzle_home_refrigerator_magnet_14: -2082339718
+      puzzle_home_refrigerator_magnet_22: 693937152
+      puzzle_home_refrigerator_magnet_30: 761981819
+      puzzle_home_refrigerator_magnet_6: -277488922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
